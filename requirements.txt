@@ -1,4 +1,4 @@
-steamlit
+streamlit
 astropy
 numpy
 pillow
